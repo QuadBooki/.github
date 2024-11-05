@@ -44,10 +44,10 @@
 
    
 ### 👥 멤버 구성
-👨🏻‍💻 박민제 : Back-end, Server, DB 
-👨🏻‍💻 김태이 : Back_end, DB, Server
-👨🏻‍💻 이현준 : Front-end, Back-end PM
-👨🏻‍💻 김나희 : Front-end, Design, PM
+- 👨🏻‍💻 박민제 : Back-end, Server, DB 
+- 👨🏻‍💻 김태이 : Back_end, DB, Server
+- 👨🏻‍💻 이현준 : Front-end, Back-end PM
+- 👨🏻‍💻 김나희 : Front-end, Design, PM
 
 
 
